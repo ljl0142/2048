@@ -1,4 +1,4 @@
-# 2048 Game
+# 2048
 This is a project creating a 2048 game. It includes an original version for human player and an AI version using greedy algorithm to play the game. The following contents introduces commands and environments. 
 
 # Commands
