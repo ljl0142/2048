@@ -19,6 +19,14 @@ nothing will be happen
 Algorithm plays the game automatically, programmors only needs to control the process.
 ### Space
 press Space to let AI enter the next turn.
+## AIplus Version
+try to use search algorithm, MCTS and LLM to play the game automatically.
+### Search Algorithm
+use the function 'run_game' and provide parameters 'ai_mode=True', 'ai_type=naive'.
+### MCTS
+use the function 'run_game' and provide parameters 'ai_mode=True', 'ai_type=mcts'.
+### LLM
+use the function 'run_game' and provide parameters 'ai_mode=True', 'ai_type=llm'.
 
 # Environment
 Python 3.12  
